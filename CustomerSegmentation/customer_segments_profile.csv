@@ -1,0 +1,3 @@
+cluster,size,percentage,avg_age,avg_income,avg_spend,total_revenue,avg_orders,avg_rfm,recency_days,top_category,top_device,gender_split,revenue_contribution
+0,368,7.4%,35±11,"$37,623","$19,087","$7,024,059",14.4,10.7,18,Fashion,Mobile,196 Male,37.9%
+1,4632,92.6%,35±11,"$48,811","$2,490","$11,532,241",14.9,8.6,21,Fashion,Mobile,2472 Male,62.1%
